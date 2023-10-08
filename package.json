@@ -1,0 +1,28 @@
+{
+  "name": "pizza-recipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefano-monti-corley/pizza-recipe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stefano-monti-corley/pizza-recipe/issues"
+  },
+  "homepage": "https://github.com/stefano-monti-corley/pizza-recipe#readme",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.7.2",
+    "@commitlint/config-conventional": "^17.7.0"
+  }
+}
