@@ -18,11 +18,9 @@
   },
   "homepage": "https://github.com/stefano-monti-corley/pizza-recipe#readme",
   "devDependencies": {
-    "husky": "^8.0.0",
-    "standard-version": "^9.5.0"
-  },
-  "dependencies": {
     "@commitlint/cli": "^17.7.2",
-    "@commitlint/config-conventional": "^17.7.0"
+    "@commitlint/config-conventional": "^17.7.0",
+    "husky": "^8.0.3",
+    "standard-version": "^9.5.0"
   }
 }
